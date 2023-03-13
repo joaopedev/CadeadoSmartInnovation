@@ -1,0 +1,15 @@
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\bin\Debug\net6.0\CadeadoSmartInnovation.exe
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\bin\Debug\net6.0\CadeadoSmartInnovation.deps.json
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\bin\Debug\net6.0\CadeadoSmartInnovation.runtimeconfig.json
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\bin\Debug\net6.0\CadeadoSmartInnovation.dll
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\bin\Debug\net6.0\CadeadoSmartInnovation.pdb
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\CadeadoSmartInnovation.csproj.AssemblyReference.cache
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\CadeadoSmartInnovation.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\CadeadoSmartInnovation.AssemblyInfoInputs.cache
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\CadeadoSmartInnovation.AssemblyInfo.cs
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\CadeadoSmartInnovation.csproj.CoreCompileInputs.cache
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\CadeadoSmartInnovation.dll
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\refint\CadeadoSmartInnovation.dll
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\CadeadoSmartInnovation.pdb
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\CadeadoSmartInnovation.genruntimeconfig.cache
+D:\projetos_c#\CadeadoSmartInnovation\CadeadoSmartInnovation\obj\Debug\net6.0\ref\CadeadoSmartInnovation.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CadeadoSmartInnovation/1.0.0": {
+        "runtime": {
+          "CadeadoSmartInnovation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadeadoSmartInnovation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
